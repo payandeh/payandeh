@@ -11,8 +11,8 @@
 
 - A passionate Front-end developer
 - Currently learning Product Management
-- Personal website [link](https://omidpayandeh.ir/)
-- Open for Exciting Freelance Opportunities!, this is [my resume](https://omidpayandeh.ir/resume.pdf)
+- Personal website [link](https://payandeh.pro/)
+- Open for Exciting Freelance Opportunities!
 
 <br><br>
 
