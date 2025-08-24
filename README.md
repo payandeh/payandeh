@@ -30,10 +30,10 @@
     
 - **Front-End Development**:
 
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React%20-%234285F4.svg?style=for-the-badge&logo=react&logoColor=white)
-![Next](https://img.shields.io/badge/Next%20-%23121011.svg?style=for-the-badge&logo=next.js&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![React](https://img.shields.io/badge/React%20-%234285F4.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![Next](https://img.shields.io/badge/Next%20-%23121011.svg?style=for-the-badge&logo=next.js&logoColor=white)
 <br>
 
 - **Softwares and Tools**:
@@ -49,8 +49,6 @@
 - **Extras**:
 
   ![Terminal](https://img.shields.io/badge/Figma-%23000000?style=for-the-badge&logo=figma&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/markdown-%234285F4.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
 </p>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
