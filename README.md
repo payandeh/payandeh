@@ -10,7 +10,6 @@
 <br>
 
 - A passionate Front-end developer
-- Currently learning Product Management
 - Personal website [link](https://payandev.ir/)
 - Open for Exciting Freelance Opportunities!
 
